@@ -125,3 +125,6 @@ alias lt='ls -lhtr'
 alias ..='cd ..'
 
 source ~/.bash_git
+
+# Uncomment if you need to run Podman in WSL
+# sudo mount --make-rshared /
