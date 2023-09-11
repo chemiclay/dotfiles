@@ -124,3 +124,4 @@ alias lh='ls -lh'
 alias lt='ls -lhtr'
 alias ..='cd ..'
 
+source ~/.bash_git
